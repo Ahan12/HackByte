@@ -1,0 +1,1603 @@
+Date,Menu_Item_Name,Food_Category,Contains_Meat,Contains_Dairy,Contains_Vegetables,Is_Fried,Has_Sauce,Is_Sweet,Is_Spicy,Is_Finger_Food,Is_Preprocessed,Serving_Size_Grams,Total_Servings_Prepared,Total_Servings_Wasted
+2023-09-01,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,223,235,0
+2023-09-01,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,273,171,4
+2023-09-01,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,103,306,2
+2023-09-01,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,150,326,30
+2023-09-01,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,No,114,184,9
+2023-09-01,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,No,90,204,5
+2023-09-01,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,121,227,0
+2023-09-01,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,Yes,145,310,51
+2023-09-04,Veggie Burger,Main dish,Yes,No,No,No,No,No,Yes,No,No,215,237,23
+2023-09-04,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,226,242,4
+2023-09-04,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,108,265,20
+2023-09-04,French Fries,Side,No,No,Yes,Yes,No,No,Yes,Yes,No,107,349,33
+2023-09-04,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,Yes,99,231,55
+2023-09-04,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,No,119,204,5
+2023-09-04,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,175,323,10
+2023-09-04,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,124,303,14
+2023-09-05,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,208,154,31
+2023-09-05,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,276,224,3
+2023-09-05,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,121,318,0
+2023-09-05,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,106,283,19
+2023-09-05,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,Yes,88,150,31
+2023-09-05,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,Yes,88,194,37
+2023-09-05,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,119,255,29
+2023-09-05,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,153,239,23
+2023-09-06,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,202,177,20
+2023-09-06,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,No,283,246,5
+2023-09-06,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,132,253,17
+2023-09-06,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,108,209,23
+2023-09-06,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,No,98,222,8
+2023-09-06,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,No,110,151,0
+2023-09-06,Apple Pie,Dessert,No,No,No,No,No,Yes,Yes,No,No,165,200,33
+2023-09-06,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,117,282,0
+2023-09-07,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,242,257,51
+2023-09-07,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,248,210,63
+2023-09-07,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,150,223,16
+2023-09-07,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,110,248,43
+2023-09-07,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,No,104,208,16
+2023-09-07,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,Yes,119,192,43
+2023-09-07,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,Yes,117,254,0
+2023-09-07,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,123,253,4
+2023-09-08,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,251,156,35
+2023-09-08,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,200,172,9
+2023-09-08,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,125,310,20
+2023-09-08,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,101,333,0
+2023-09-08,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,Yes,119,178,18
+2023-09-08,Banana,Fruit,No,No,No,No,No,No,No,No,No,112,144,22
+2023-09-08,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,Yes,171,228,37
+2023-09-08,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,140,312,21
+2023-09-11,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,288,225,0
+2023-09-11,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,211,188,13
+2023-09-11,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,109,288,0
+2023-09-11,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,142,233,19
+2023-09-11,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,115,236,8
+2023-09-11,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,Yes,137,137,17
+2023-09-11,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,177,286,19
+2023-09-11,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,150,213,22
+2023-09-12,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,223,176,34
+2023-09-12,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,243,277,81
+2023-09-12,Coleslaw,Side,No,No,Yes,No,No,No,No,No,Yes,115,324,42
+2023-09-12,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,135,306,31
+2023-09-12,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,No,112,200,13
+2023-09-12,Apple Slices,Fruit,No,No,No,No,No,No,Yes,Yes,No,114,223,33
+2023-09-12,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,144,209,1
+2023-09-12,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,176,314,12
+2023-09-13,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,No,210,209,1
+2023-09-13,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,285,253,20
+2023-09-13,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,141,267,3
+2023-09-13,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,119,349,0
+2023-09-13,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,Yes,115,140,23
+2023-09-13,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,126,200,0
+2023-09-13,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,163,258,0
+2023-09-13,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,Yes,138,289,45
+2023-09-14,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,216,229,1
+2023-09-14,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,288,185,5
+2023-09-14,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,116,321,0
+2023-09-14,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,102,302,6
+2023-09-14,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,105,222,5
+2023-09-14,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,No,112,188,0
+2023-09-14,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,111,255,38
+2023-09-14,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,Yes,153,232,46
+2023-09-15,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,250,290,21
+2023-09-15,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,273,185,54
+2023-09-15,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,147,326,17
+2023-09-15,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,137,328,0
+2023-09-15,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,No,97,112,4
+2023-09-15,Watermelon Cubes,Fruit,No,No,No,No,No,No,No,No,No,84,176,17
+2023-09-15,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,146,221,0
+2023-09-15,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,Yes,118,274,38
+2023-09-18,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,231,256,32
+2023-09-18,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,265,202,16
+2023-09-18,Coleslaw,Side,No,No,Yes,No,No,No,No,No,Yes,106,234,60
+2023-09-18,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,Yes,116,258,15
+2023-09-18,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,116,127,14
+2023-09-18,Watermelon Cubes,Fruit,No,No,No,No,No,No,No,No,Yes,135,154,33
+2023-09-18,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,176,263,0
+2023-09-18,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,170,305,20
+2023-09-19,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,207,273,30
+2023-09-19,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,Yes,268,251,49
+2023-09-19,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,126,346,0
+2023-09-19,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,149,274,12
+2023-09-19,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,Yes,108,236,38
+2023-09-19,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,No,148,163,10
+2023-09-19,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,117,326,0
+2023-09-19,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,113,321,12
+2023-09-20,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,No,271,175,3
+2023-09-20,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,268,249,0
+2023-09-20,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,121,203,0
+2023-09-20,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,144,230,10
+2023-09-20,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,89,222,41
+2023-09-20,Grapes,Fruit,No,No,No,No,No,No,No,Yes,Yes,113,125,27
+2023-09-20,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,148,336,51
+2023-09-20,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,175,270,25
+2023-09-21,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,246,159,12
+2023-09-21,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,261,295,47
+2023-09-21,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,138,247,8
+2023-09-21,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,126,323,51
+2023-09-21,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,101,123,4
+2023-09-21,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,148,117,13
+2023-09-21,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,133,275,32
+2023-09-21,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,170,234,19
+2023-09-22,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,294,288,39
+2023-09-22,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,Yes,201,234,19
+2023-09-22,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,146,211,4
+2023-09-22,Baked Beans,Side,No,No,Yes,No,No,No,No,No,Yes,101,282,52
+2023-09-22,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,86,158,18
+2023-09-22,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,Yes,134,249,10
+2023-09-22,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,161,238,58
+2023-09-22,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,125,257,8
+2023-09-25,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,230,170,1
+2023-09-25,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,273,278,38
+2023-09-25,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,134,348,10
+2023-09-25,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,126,202,3
+2023-09-25,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,Yes,112,173,26
+2023-09-25,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,No,105,133,0
+2023-09-25,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,Yes,105,245,23
+2023-09-25,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,146,299,0
+2023-09-26,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,237,196,11
+2023-09-26,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,290,297,9
+2023-09-26,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,143,273,10
+2023-09-26,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,141,299,8
+2023-09-26,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,No,103,188,18
+2023-09-26,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,150,141,0
+2023-09-26,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,143,326,19
+2023-09-26,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,120,339,31
+2023-09-27,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,No,251,200,12
+2023-09-27,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,Yes,No,Yes,283,222,71
+2023-09-27,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,100,312,37
+2023-09-27,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,100,251,1
+2023-09-27,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,83,121,25
+2023-09-27,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,No,139,145,0
+2023-09-27,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,133,247,37
+2023-09-27,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,108,219,4
+2023-09-28,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,282,202,18
+2023-09-28,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,No,241,196,15
+2023-09-28,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,109,274,17
+2023-09-28,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,108,313,15
+2023-09-28,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,118,138,29
+2023-09-28,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,145,250,0
+2023-09-28,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,128,320,0
+2023-09-28,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,121,215,9
+2023-09-29,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,284,237,33
+2023-09-29,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,284,259,23
+2023-09-29,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,140,275,29
+2023-09-29,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,147,262,17
+2023-09-29,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,No,82,153,0
+2023-09-29,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,Yes,130,237,26
+2023-09-29,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,136,265,17
+2023-09-29,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,106,257,5
+2023-10-02,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,234,151,8
+2023-10-02,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,253,298,89
+2023-10-02,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,148,344,10
+2023-10-02,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,142,326,42
+2023-10-02,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,Yes,108,101,7
+2023-10-02,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,150,153,0
+2023-10-02,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,126,200,0
+2023-10-02,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,170,311,21
+2023-10-03,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,203,218,16
+2023-10-03,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,233,279,24
+2023-10-03,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,112,279,26
+2023-10-03,Rice Pilaf,Side,No,No,Yes,No,No,No,Yes,No,No,139,247,42
+2023-10-03,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,No,104,183,4
+2023-10-03,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,No,141,180,13
+2023-10-03,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,117,257,33
+2023-10-03,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,163,215,6
+2023-10-04,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,297,277,9
+2023-10-04,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,211,261,27
+2023-10-04,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,120,345,4
+2023-10-04,Mashed Potatoes,Side,No,No,Yes,No,No,No,Yes,No,Yes,119,277,81
+2023-10-04,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,Yes,118,249,40
+2023-10-04,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,87,223,11
+2023-10-04,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,165,344,22
+2023-10-04,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,157,274,0
+2023-10-05,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,256,241,45
+2023-10-05,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,299,239,8
+2023-10-05,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,145,218,21
+2023-10-05,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,128,265,39
+2023-10-05,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,No,96,174,6
+2023-10-05,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,Yes,127,113,15
+2023-10-05,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,148,261,56
+2023-10-05,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,108,246,7
+2023-10-06,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,223,209,23
+2023-10-06,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,220,160,29
+2023-10-06,Baked Beans,Side,No,No,Yes,No,No,No,No,No,Yes,149,279,41
+2023-10-06,Garlic Bread,Side,No,No,Yes,No,No,No,Yes,Yes,No,106,252,28
+2023-10-06,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,Yes,111,155,33
+2023-10-06,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,138,189,12
+2023-10-06,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,131,201,11
+2023-10-06,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,129,270,37
+2023-10-09,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,291,201,9
+2023-10-09,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,259,169,23
+2023-10-09,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,110,310,79
+2023-10-09,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,109,228,23
+2023-10-09,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,No,101,153,1
+2023-10-09,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,No,131,210,1
+2023-10-09,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,Yes,111,255,39
+2023-10-09,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,Yes,106,320,41
+2023-10-10,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,202,196,17
+2023-10-10,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,298,287,16
+2023-10-10,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,Yes,126,237,43
+2023-10-10,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,130,211,1
+2023-10-10,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,No,82,128,14
+2023-10-10,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,No,84,127,0
+2023-10-10,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,Yes,164,306,35
+2023-10-10,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,145,335,27
+2023-10-11,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,No,292,205,19
+2023-10-11,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,No,236,213,7
+2023-10-11,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,123,306,17
+2023-10-11,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,120,228,1
+2023-10-11,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,113,100,5
+2023-10-11,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,No,107,148,0
+2023-10-11,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,166,294,19
+2023-10-11,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,108,274,26
+2023-10-12,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,242,251,23
+2023-10-12,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,No,269,154,1
+2023-10-12,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,141,311,0
+2023-10-12,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,112,289,34
+2023-10-12,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,Yes,No,No,92,109,13
+2023-10-12,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,Yes,116,184,16
+2023-10-12,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,119,302,0
+2023-10-12,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,Yes,109,336,42
+2023-10-13,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,260,171,51
+2023-10-13,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,200,276,18
+2023-10-13,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,101,296,25
+2023-10-13,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,125,346,0
+2023-10-13,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,No,109,242,0
+2023-10-13,Watermelon Cubes,Fruit,No,No,No,No,No,No,No,No,No,133,210,19
+2023-10-13,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,156,285,0
+2023-10-13,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,126,268,8
+2023-10-16,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,221,237,18
+2023-10-16,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,Yes,206,204,32
+2023-10-16,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,146,208,19
+2023-10-16,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,127,300,8
+2023-10-16,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,Yes,95,210,29
+2023-10-16,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,No,144,194,14
+2023-10-16,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,105,218,1
+2023-10-16,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,114,206,11
+2023-10-17,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,255,248,0
+2023-10-17,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,Yes,220,256,37
+2023-10-17,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,Yes,133,265,37
+2023-10-17,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,136,305,0
+2023-10-17,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,No,115,165,2
+2023-10-17,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,No,101,140,0
+2023-10-17,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,Yes,133,227,56
+2023-10-17,Banana Bread,Dessert,No,No,No,No,No,Yes,Yes,Yes,No,125,273,27
+2023-10-18,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,256,298,47
+2023-10-18,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,Yes,No,No,226,236,28
+2023-10-18,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,130,305,26
+2023-10-18,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,136,223,12
+2023-10-18,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,115,181,20
+2023-10-18,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,Yes,97,229,36
+2023-10-18,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,120,294,0
+2023-10-18,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,Yes,142,259,57
+2023-10-19,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,240,210,49
+2023-10-19,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,295,257,44
+2023-10-19,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,112,268,40
+2023-10-19,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,108,339,21
+2023-10-19,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,Yes,96,181,11
+2023-10-19,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,118,149,4
+2023-10-19,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,153,346,48
+2023-10-19,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,170,225,37
+2023-10-20,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,Yes,250,209,38
+2023-10-20,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,252,222,30
+2023-10-20,Baked Beans,Side,No,No,Yes,No,No,No,Yes,No,No,121,242,35
+2023-10-20,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,101,262,8
+2023-10-20,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,No,93,142,3
+2023-10-20,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,114,123,3
+2023-10-20,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,Yes,154,274,31
+2023-10-20,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,128,282,27
+2023-10-23,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,269,255,10
+2023-10-23,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,228,177,17
+2023-10-23,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,116,286,32
+2023-10-23,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,150,304,30
+2023-10-23,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,No,117,137,0
+2023-10-23,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,Yes,90,224,34
+2023-10-23,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,109,217,0
+2023-10-23,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,176,232,34
+2023-10-24,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,256,241,72
+2023-10-24,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,225,291,45
+2023-10-24,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,145,215,19
+2023-10-24,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,128,262,7
+2023-10-24,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,110,122,13
+2023-10-24,Banana,Fruit,No,No,No,No,No,No,No,No,No,100,236,0
+2023-10-24,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,148,349,22
+2023-10-24,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,136,289,0
+2023-10-25,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,Yes,200,211,34
+2023-10-25,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,234,254,34
+2023-10-25,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,143,276,0
+2023-10-25,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,130,205,12
+2023-10-25,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,Yes,108,153,27
+2023-10-25,Watermelon Cubes,Fruit,No,No,No,No,No,No,No,No,No,109,192,0
+2023-10-25,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,119,325,13
+2023-10-25,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,162,255,0
+2023-10-26,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,233,267,24
+2023-10-26,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,Yes,230,251,43
+2023-10-26,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,150,227,29
+2023-10-26,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,125,264,34
+2023-10-26,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,91,132,1
+2023-10-26,Banana,Fruit,No,No,No,No,No,No,No,No,Yes,93,103,16
+2023-10-26,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,111,201,11
+2023-10-26,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,Yes,136,201,46
+2023-10-27,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,232,240,22
+2023-10-27,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,Yes,209,238,43
+2023-10-27,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,150,343,20
+2023-10-27,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,101,267,7
+2023-10-27,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,Yes,No,Yes,94,131,37
+2023-10-27,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,No,124,189,0
+2023-10-27,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,106,211,22
+2023-10-27,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,105,297,54
+2023-10-30,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,213,173,0
+2023-10-30,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,272,195,1
+2023-10-30,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,134,256,46
+2023-10-30,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,Yes,114,255,24
+2023-10-30,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,108,197,17
+2023-10-30,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,Yes,146,237,35
+2023-10-30,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,Yes,164,222,29
+2023-10-30,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,158,294,0
+2023-10-31,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,220,153,15
+2023-10-31,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,250,291,57
+2023-10-31,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,146,304,40
+2023-10-31,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,128,284,24
+2023-10-31,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,No,98,229,0
+2023-10-31,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,147,103,5
+2023-10-31,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,173,281,0
+2023-10-31,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,137,303,15
+2023-11-01,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,250,263,30
+2023-11-01,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,Yes,228,194,28
+2023-11-01,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,116,256,25
+2023-11-01,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,103,343,52
+2023-11-01,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,No,93,195,0
+2023-11-01,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,85,162,10
+2023-11-01,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,166,260,18
+2023-11-01,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,153,207,0
+2023-11-02,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,257,255,53
+2023-11-02,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,248,214,36
+2023-11-02,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,137,219,2
+2023-11-02,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,146,289,0
+2023-11-02,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,83,178,13
+2023-11-02,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,Yes,90,133,14
+2023-11-02,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,132,340,0
+2023-11-02,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,146,285,6
+2023-11-03,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,283,190,22
+2023-11-03,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,Yes,215,151,34
+2023-11-03,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,141,272,0
+2023-11-03,Coleslaw,Side,No,No,Yes,No,No,No,No,No,Yes,122,267,47
+2023-11-03,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,No,115,250,17
+2023-11-03,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,84,244,15
+2023-11-03,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,152,276,39
+2023-11-03,Apple Pie,Dessert,No,No,No,No,No,Yes,Yes,No,No,180,282,76
+2023-11-06,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,No,240,190,5
+2023-11-06,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,Yes,232,156,29
+2023-11-06,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,122,243,3
+2023-11-06,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,101,250,1
+2023-11-06,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,Yes,116,108,11
+2023-11-06,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,110,124,12
+2023-11-06,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,126,291,24
+2023-11-06,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,133,241,9
+2023-11-07,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,283,211,15
+2023-11-07,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,288,163,20
+2023-11-07,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,140,341,29
+2023-11-07,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,140,312,24
+2023-11-07,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,No,80,184,7
+2023-11-07,Banana,Fruit,No,No,No,No,No,No,No,No,Yes,130,233,36
+2023-11-07,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,Yes,172,271,51
+2023-11-07,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,143,324,11
+2023-11-08,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,210,218,50
+2023-11-08,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,201,201,37
+2023-11-08,Coleslaw,Side,No,No,Yes,No,No,No,Yes,No,No,108,324,23
+2023-11-08,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,142,236,0
+2023-11-08,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,No,108,128,0
+2023-11-08,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,123,231,38
+2023-11-08,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,Yes,163,221,32
+2023-11-08,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,139,272,39
+2023-11-09,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,290,270,26
+2023-11-09,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,Yes,272,283,31
+2023-11-09,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,130,244,19
+2023-11-09,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,112,242,10
+2023-11-09,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,Yes,119,122,24
+2023-11-09,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,Yes,116,177,11
+2023-11-09,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,165,246,10
+2023-11-09,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,Yes,152,347,85
+2023-11-10,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,228,258,16
+2023-11-10,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,283,221,19
+2023-11-10,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,120,292,16
+2023-11-10,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,115,232,12
+2023-11-10,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,Yes,93,208,29
+2023-11-10,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,No,147,143,0
+2023-11-10,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,161,205,14
+2023-11-10,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,Yes,168,289,45
+2023-11-13,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,268,175,3
+2023-11-13,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,No,218,218,0
+2023-11-13,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,116,301,12
+2023-11-13,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,139,314,16
+2023-11-13,Green Beans,Vegetable,No,No,Yes,No,No,No,No,No,Yes,91,184,24
+2023-11-13,Pear Slices,Fruit,No,No,No,No,No,No,Yes,Yes,No,145,117,0
+2023-11-13,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,104,272,7
+2023-11-13,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,173,273,44
+2023-11-14,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,Yes,263,299,56
+2023-11-14,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,No,269,242,0
+2023-11-14,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,127,222,6
+2023-11-14,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,124,295,0
+2023-11-14,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,No,80,180,17
+2023-11-14,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,No,94,133,0
+2023-11-14,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,168,337,20
+2023-11-14,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,116,231,0
+2023-11-15,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,211,242,23
+2023-11-15,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,208,289,60
+2023-11-15,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,123,315,0
+2023-11-15,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,149,254,14
+2023-11-15,Green Beans,Vegetable,No,No,Yes,No,No,No,No,No,No,110,136,4
+2023-11-15,Watermelon Cubes,Fruit,No,No,No,No,No,No,No,No,Yes,127,235,33
+2023-11-15,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,166,315,4
+2023-11-15,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,115,336,15
+2023-11-16,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,214,252,40
+2023-11-16,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,279,286,12
+2023-11-16,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,138,341,16
+2023-11-16,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,139,334,27
+2023-11-16,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,No,85,160,6
+2023-11-16,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,Yes,136,243,35
+2023-11-16,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,115,296,48
+2023-11-16,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,153,335,0
+2023-11-17,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,No,300,267,24
+2023-11-17,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,213,211,26
+2023-11-17,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,116,203,14
+2023-11-17,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,139,306,0
+2023-11-17,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,No,83,103,6
+2023-11-17,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,No,141,233,0
+2023-11-17,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,173,277,36
+2023-11-17,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,100,295,3
+2023-11-20,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,Yes,287,164,22
+2023-11-20,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,263,151,5
+2023-11-20,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,125,316,6
+2023-11-20,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,104,269,27
+2023-11-20,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,Yes,109,179,26
+2023-11-20,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,Yes,137,140,21
+2023-11-20,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,172,292,17
+2023-11-20,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,171,233,0
+2023-11-21,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,226,275,0
+2023-11-21,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,229,188,32
+2023-11-21,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,146,303,41
+2023-11-21,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,Yes,116,255,9
+2023-11-21,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,Yes,81,219,16
+2023-11-21,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,Yes,148,236,39
+2023-11-21,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,154,305,0
+2023-11-21,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,160,293,45
+2023-11-22,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,209,240,14
+2023-11-22,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,243,200,2
+2023-11-22,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,108,330,45
+2023-11-22,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,140,261,5
+2023-11-22,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,No,100,175,15
+2023-11-22,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,No,114,145,0
+2023-11-22,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,167,323,17
+2023-11-22,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,Yes,172,344,37
+2023-11-23,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,276,173,29
+2023-11-23,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,219,213,43
+2023-11-23,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,111,227,7
+2023-11-23,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,110,320,20
+2023-11-23,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,Yes,97,230,40
+2023-11-23,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,Yes,105,206,37
+2023-11-23,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,100,220,26
+2023-11-23,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,152,219,23
+2023-11-24,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,283,237,15
+2023-11-24,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,251,208,20
+2023-11-24,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,132,300,19
+2023-11-24,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,105,339,51
+2023-11-24,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,89,198,2
+2023-11-24,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,Yes,83,141,17
+2023-11-24,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,112,250,0
+2023-11-24,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,102,269,8
+2023-11-27,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,295,266,30
+2023-11-27,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,No,253,248,33
+2023-11-27,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,109,226,17
+2023-11-27,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,150,219,16
+2023-11-27,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,Yes,97,147,17
+2023-11-27,Banana,Fruit,No,No,No,No,No,No,No,No,No,95,166,3
+2023-11-27,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,155,350,24
+2023-11-27,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,117,327,41
+2023-11-28,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,Yes,258,187,19
+2023-11-28,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,285,299,32
+2023-11-28,Garlic Bread,Side,No,No,Yes,No,No,No,Yes,Yes,No,117,221,21
+2023-11-28,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,122,214,0
+2023-11-28,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,No,89,156,7
+2023-11-28,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,Yes,123,124,22
+2023-11-28,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,136,202,14
+2023-11-28,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,154,288,0
+2023-11-29,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,Yes,266,238,42
+2023-11-29,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,No,272,228,15
+2023-11-29,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,105,232,14
+2023-11-29,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,115,339,0
+2023-11-29,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,No,114,172,0
+2023-11-29,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,110,136,0
+2023-11-29,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,123,247,37
+2023-11-29,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,144,343,7
+2023-11-30,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,269,199,7
+2023-11-30,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,243,174,42
+2023-11-30,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,133,216,3
+2023-11-30,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,150,226,21
+2023-11-30,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,No,120,138,0
+2023-11-30,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,No,97,134,4
+2023-11-30,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,176,249,11
+2023-11-30,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,125,244,50
+2023-12-01,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,236,281,50
+2023-12-01,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,Yes,212,253,28
+2023-12-01,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,139,251,13
+2023-12-01,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,141,325,6
+2023-12-01,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,No,103,129,6
+2023-12-01,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,No,114,195,14
+2023-12-01,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,Yes,126,252,26
+2023-12-01,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,Yes,117,257,31
+2023-12-04,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,No,234,150,9
+2023-12-04,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,200,207,38
+2023-12-04,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,100,337,36
+2023-12-04,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,114,239,5
+2023-12-04,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,85,201,8
+2023-12-04,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,Yes,130,131,0
+2023-12-04,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,126,308,15
+2023-12-04,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,174,325,0
+2023-12-05,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,296,173,16
+2023-12-05,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,298,222,36
+2023-12-05,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,101,245,0
+2023-12-05,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,123,295,15
+2023-12-05,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,No,105,227,23
+2023-12-05,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,No,149,180,0
+2023-12-05,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,Yes,105,270,29
+2023-12-05,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,153,240,5
+2023-12-06,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,261,272,20
+2023-12-06,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,250,218,36
+2023-12-06,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,123,350,5
+2023-12-06,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,135,308,0
+2023-12-06,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,Yes,85,195,44
+2023-12-06,Banana,Fruit,No,No,No,No,No,No,No,No,No,137,100,6
+2023-12-06,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,175,347,44
+2023-12-06,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,154,330,5
+2023-12-07,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,227,162,6
+2023-12-07,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,Yes,206,227,13
+2023-12-07,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,135,209,21
+2023-12-07,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,127,262,4
+2023-12-07,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,Yes,96,143,20
+2023-12-07,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,Yes,130,234,26
+2023-12-07,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,131,333,55
+2023-12-07,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,144,221,27
+2023-12-08,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,236,280,19
+2023-12-08,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,Yes,257,236,43
+2023-12-08,Rice Pilaf,Side,No,No,Yes,No,No,No,Yes,No,No,139,330,40
+2023-12-08,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,113,336,10
+2023-12-08,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,No,91,231,2
+2023-12-08,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,Yes,84,137,24
+2023-12-08,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,142,302,35
+2023-12-08,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,152,286,72
+2023-12-11,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,Yes,206,284,44
+2023-12-11,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,256,255,51
+2023-12-11,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,110,223,2
+2023-12-11,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,113,311,40
+2023-12-11,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,No,82,201,0
+2023-12-11,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,No,144,207,9
+2023-12-11,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,120,318,0
+2023-12-11,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,125,300,0
+2023-12-12,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,205,239,31
+2023-12-12,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,Yes,No,Yes,299,189,36
+2023-12-12,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,107,221,0
+2023-12-12,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,124,308,39
+2023-12-12,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,Yes,109,203,8
+2023-12-12,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,Yes,136,186,20
+2023-12-12,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,105,325,0
+2023-12-12,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,154,271,15
+2023-12-13,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,294,262,14
+2023-12-13,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,Yes,280,164,27
+2023-12-13,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,136,223,3
+2023-12-13,Coleslaw,Side,No,No,Yes,No,No,No,No,No,Yes,142,332,66
+2023-12-13,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,No,89,213,6
+2023-12-13,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,Yes,134,221,40
+2023-12-13,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,168,254,33
+2023-12-13,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,163,288,0
+2023-12-14,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,236,197,19
+2023-12-14,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,205,157,24
+2023-12-14,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,135,292,0
+2023-12-14,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,103,340,25
+2023-12-14,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,No,112,144,1
+2023-12-14,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,No,108,110,1
+2023-12-14,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,128,200,19
+2023-12-14,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,141,312,13
+2023-12-15,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,No,220,150,16
+2023-12-15,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,282,154,19
+2023-12-15,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,141,315,19
+2023-12-15,Coleslaw,Side,No,No,Yes,No,No,No,No,No,Yes,142,297,89
+2023-12-15,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,No,109,198,3
+2023-12-15,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,Yes,132,105,12
+2023-12-15,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,123,321,40
+2023-12-15,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,113,237,52
+2023-12-18,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,Yes,244,259,36
+2023-12-18,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,264,237,64
+2023-12-18,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,111,334,16
+2023-12-18,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,111,239,31
+2023-12-18,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,111,192,36
+2023-12-18,Banana,Fruit,No,No,No,No,No,No,No,No,Yes,105,160,23
+2023-12-18,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,161,257,19
+2023-12-18,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,156,238,28
+2023-12-19,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,256,269,0
+2023-12-19,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,203,286,53
+2023-12-19,Coleslaw,Side,No,No,Yes,No,No,No,No,No,Yes,128,243,30
+2023-12-19,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,Yes,145,247,31
+2023-12-19,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,Yes,104,191,13
+2023-12-19,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,Yes,93,146,24
+2023-12-19,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,Yes,140,330,24
+2023-12-19,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,163,337,12
+2023-12-20,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,260,171,25
+2023-12-20,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,282,273,3
+2023-12-20,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,150,235,3
+2023-12-20,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,Yes,112,282,28
+2023-12-20,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,81,205,26
+2023-12-20,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,Yes,149,183,46
+2023-12-20,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,145,297,0
+2023-12-20,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,109,279,7
+2023-12-21,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,221,253,23
+2023-12-21,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,Yes,288,150,18
+2023-12-21,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,125,221,3
+2023-12-21,Mac and Cheese,Side,No,Yes,Yes,No,No,No,Yes,No,Yes,150,275,79
+2023-12-21,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,No,89,145,10
+2023-12-21,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,Yes,95,206,46
+2023-12-21,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,177,317,22
+2023-12-21,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,163,346,13
+2023-12-22,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,285,264,12
+2023-12-22,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,Yes,252,184,27
+2023-12-22,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,127,232,9
+2023-12-22,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,102,232,0
+2023-12-22,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,89,250,11
+2023-12-22,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,Yes,112,224,11
+2023-12-22,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,Yes,159,204,20
+2023-12-22,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,101,203,0
+2023-12-25,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,Yes,276,212,17
+2023-12-25,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,Yes,278,258,75
+2023-12-25,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,135,312,25
+2023-12-25,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,133,265,0
+2023-12-25,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,Yes,91,246,56
+2023-12-25,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,102,201,2
+2023-12-25,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,Yes,No,No,139,316,60
+2023-12-25,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,115,223,0
+2023-12-26,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,213,285,15
+2023-12-26,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,245,270,0
+2023-12-26,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,130,338,36
+2023-12-26,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,124,314,15
+2023-12-26,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,No,116,112,5
+2023-12-26,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,Yes,128,120,12
+2023-12-26,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,106,245,0
+2023-12-26,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,133,251,30
+2023-12-27,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,287,165,21
+2023-12-27,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,300,275,4
+2023-12-27,Coleslaw,Side,No,No,Yes,No,No,No,No,No,Yes,150,289,66
+2023-12-27,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,113,260,2
+2023-12-27,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,No,82,194,11
+2023-12-27,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,83,134,0
+2023-12-27,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,164,338,56
+2023-12-27,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,129,276,3
+2023-12-28,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,No,233,200,0
+2023-12-28,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,220,152,29
+2023-12-28,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,130,317,40
+2023-12-28,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,136,254,35
+2023-12-28,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,105,237,26
+2023-12-28,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,No,104,170,0
+2023-12-28,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,Yes,116,256,28
+2023-12-28,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,101,334,0
+2023-12-29,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,276,220,0
+2023-12-29,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,No,234,204,1
+2023-12-29,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,135,268,26
+2023-12-29,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,131,286,0
+2023-12-29,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,111,228,34
+2023-12-29,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,Yes,92,145,24
+2023-12-29,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,162,275,8
+2023-12-29,Brownie,Dessert,No,No,No,No,No,Yes,Yes,No,Yes,126,278,77
+2024-01-01,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,263,219,19
+2024-01-01,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,255,210,0
+2024-01-01,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,127,273,11
+2024-01-01,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,134,295,28
+2024-01-01,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,Yes,120,135,22
+2024-01-01,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,Yes,80,159,9
+2024-01-01,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,129,306,20
+2024-01-01,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,162,287,0
+2024-01-02,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,246,168,0
+2024-01-02,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,No,257,202,15
+2024-01-02,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,125,206,16
+2024-01-02,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,126,330,10
+2024-01-02,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,94,171,10
+2024-01-02,Grapes,Fruit,No,No,No,No,No,No,No,Yes,Yes,104,247,25
+2024-01-02,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,164,202,0
+2024-01-02,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,148,349,35
+2024-01-03,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,214,298,48
+2024-01-03,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,No,227,267,9
+2024-01-03,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,130,302,19
+2024-01-03,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,133,321,36
+2024-01-03,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,Yes,90,160,31
+2024-01-03,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,No,86,178,3
+2024-01-03,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,157,279,0
+2024-01-03,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,160,283,0
+2024-01-04,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,No,274,252,2
+2024-01-04,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,Yes,272,300,59
+2024-01-04,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,Yes,120,317,59
+2024-01-04,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,115,342,39
+2024-01-04,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,85,180,17
+2024-01-04,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,No,112,197,0
+2024-01-04,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,155,249,21
+2024-01-04,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,174,306,0
+2024-01-05,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,225,211,30
+2024-01-05,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,No,236,185,14
+2024-01-05,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,130,335,52
+2024-01-05,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,118,287,14
+2024-01-05,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,81,174,24
+2024-01-05,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,92,137,1
+2024-01-05,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,177,335,0
+2024-01-05,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,Yes,124,212,39
+2024-01-08,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,234,178,27
+2024-01-08,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,Yes,No,No,249,210,40
+2024-01-08,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,110,325,0
+2024-01-08,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,135,286,33
+2024-01-08,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,No,87,177,19
+2024-01-08,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,No,80,141,2
+2024-01-08,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,154,249,1
+2024-01-08,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,Yes,147,233,17
+2024-01-09,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,215,224,6
+2024-01-09,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,289,259,10
+2024-01-09,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,143,308,36
+2024-01-09,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,147,337,30
+2024-01-09,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,88,103,7
+2024-01-09,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,93,126,4
+2024-01-09,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,118,347,12
+2024-01-09,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,Yes,No,Yes,110,259,72
+2024-01-10,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,283,157,22
+2024-01-10,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,276,191,20
+2024-01-10,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,130,212,10
+2024-01-10,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,117,344,45
+2024-01-10,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,Yes,89,110,10
+2024-01-10,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,105,161,12
+2024-01-10,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,135,274,6
+2024-01-10,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,162,276,0
+2024-01-11,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,293,219,46
+2024-01-11,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,No,249,192,18
+2024-01-11,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,108,311,28
+2024-01-11,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,104,260,12
+2024-01-11,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,114,153,30
+2024-01-11,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,No,88,232,0
+2024-01-11,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,149,250,0
+2024-01-11,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,129,221,0
+2024-01-12,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,289,258,43
+2024-01-12,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,No,229,218,0
+2024-01-12,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,115,225,22
+2024-01-12,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,114,220,32
+2024-01-12,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,No,104,140,4
+2024-01-12,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,120,240,3
+2024-01-12,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,Yes,123,241,39
+2024-01-12,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,102,224,14
+2024-01-15,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,237,178,46
+2024-01-15,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,220,209,52
+2024-01-15,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,136,284,6
+2024-01-15,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,147,289,31
+2024-01-15,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,Yes,94,217,38
+2024-01-15,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,Yes,142,124,7
+2024-01-15,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,157,323,0
+2024-01-15,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,131,335,11
+2024-01-16,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,No,228,180,25
+2024-01-16,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,216,164,8
+2024-01-16,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,140,303,53
+2024-01-16,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,114,266,0
+2024-01-16,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,95,168,0
+2024-01-16,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,127,250,6
+2024-01-16,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,107,227,18
+2024-01-16,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,160,217,12
+2024-01-17,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,No,288,252,9
+2024-01-17,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,227,193,0
+2024-01-17,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,124,203,0
+2024-01-17,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,149,208,11
+2024-01-17,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,117,126,20
+2024-01-17,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,Yes,101,145,26
+2024-01-17,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,103,276,0
+2024-01-17,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,170,252,0
+2024-01-18,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,251,202,0
+2024-01-18,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,214,180,35
+2024-01-18,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,113,346,0
+2024-01-18,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,100,218,2
+2024-01-18,Green Beans,Vegetable,No,No,Yes,No,No,No,No,No,No,103,237,0
+2024-01-18,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,No,108,224,0
+2024-01-18,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,177,230,1
+2024-01-18,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,118,214,22
+2024-01-19,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,206,292,42
+2024-01-19,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,No,258,233,25
+2024-01-19,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,141,266,32
+2024-01-19,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,142,254,2
+2024-01-19,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,No,82,175,2
+2024-01-19,Banana,Fruit,No,No,No,No,No,No,No,No,Yes,148,218,30
+2024-01-19,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,Yes,121,234,27
+2024-01-19,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,164,311,48
+2024-01-22,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,245,229,57
+2024-01-22,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,Yes,210,246,60
+2024-01-22,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,114,283,9
+2024-01-22,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,118,245,11
+2024-01-22,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,106,215,24
+2024-01-22,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,Yes,118,247,37
+2024-01-22,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,164,237,2
+2024-01-22,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,132,329,1
+2024-01-23,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,No,217,178,16
+2024-01-23,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,221,209,50
+2024-01-23,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,116,211,28
+2024-01-23,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,Yes,124,317,49
+2024-01-23,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,No,113,130,9
+2024-01-23,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,No,125,230,0
+2024-01-23,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,166,341,0
+2024-01-23,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,Yes,143,247,34
+2024-01-24,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,251,164,12
+2024-01-24,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,Yes,No,No,213,281,30
+2024-01-24,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,131,275,19
+2024-01-24,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,142,265,4
+2024-01-24,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,Yes,119,153,14
+2024-01-24,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,Yes,115,140,34
+2024-01-24,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,149,317,5
+2024-01-24,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,133,322,32
+2024-01-25,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,No,267,289,0
+2024-01-25,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,216,213,46
+2024-01-25,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,104,218,0
+2024-01-25,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,101,334,17
+2024-01-25,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,No,85,224,0
+2024-01-25,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,112,120,0
+2024-01-25,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,147,350,28
+2024-01-25,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,146,236,0
+2024-01-26,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,252,295,0
+2024-01-26,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,230,220,16
+2024-01-26,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,100,281,34
+2024-01-26,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,133,235,0
+2024-01-26,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,Yes,107,154,18
+2024-01-26,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,Yes,141,148,33
+2024-01-26,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,134,240,26
+2024-01-26,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,160,205,0
+2024-01-29,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,253,282,50
+2024-01-29,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,211,274,49
+2024-01-29,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,124,203,11
+2024-01-29,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,Yes,143,223,16
+2024-01-29,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,117,193,24
+2024-01-29,Watermelon Cubes,Fruit,No,No,No,No,No,No,No,No,No,113,117,0
+2024-01-29,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,167,312,3
+2024-01-29,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,172,202,17
+2024-01-30,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,217,181,19
+2024-01-30,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,No,273,277,6
+2024-01-30,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,144,228,0
+2024-01-30,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,137,334,3
+2024-01-30,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,Yes,91,113,11
+2024-01-30,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,Yes,119,188,23
+2024-01-30,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,158,204,0
+2024-01-30,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,109,337,0
+2024-01-31,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,244,227,7
+2024-01-31,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,Yes,239,247,32
+2024-01-31,Coleslaw,Side,No,No,Yes,No,No,No,No,No,Yes,139,208,25
+2024-01-31,Coleslaw,Side,No,No,Yes,No,No,No,Yes,No,No,148,306,73
+2024-01-31,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,Yes,96,179,31
+2024-01-31,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,No,138,130,0
+2024-01-31,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,Yes,114,218,12
+2024-01-31,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,127,264,10
+2024-02-01,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,209,184,25
+2024-02-01,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,273,272,14
+2024-02-01,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,118,314,45
+2024-02-01,Baked Beans,Side,No,No,Yes,No,No,No,No,No,Yes,114,230,30
+2024-02-01,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,88,223,43
+2024-02-01,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,No,99,118,0
+2024-02-01,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,174,243,12
+2024-02-01,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,178,284,20
+2024-02-02,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,Yes,No,No,283,192,37
+2024-02-02,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,278,187,9
+2024-02-02,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,139,240,29
+2024-02-02,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,142,232,0
+2024-02-02,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,117,143,15
+2024-02-02,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,Yes,142,156,7
+2024-02-02,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,135,283,2
+2024-02-02,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,159,298,9
+2024-02-05,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,214,205,18
+2024-02-05,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,No,264,239,0
+2024-02-05,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,109,240,46
+2024-02-05,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,Yes,115,200,31
+2024-02-05,Green Beans,Vegetable,No,No,Yes,No,No,No,No,No,Yes,119,120,22
+2024-02-05,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,Yes,139,105,25
+2024-02-05,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,174,276,5
+2024-02-05,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,169,304,31
+2024-02-06,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,221,178,25
+2024-02-06,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,262,294,47
+2024-02-06,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,142,342,24
+2024-02-06,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,144,344,0
+2024-02-06,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,No,100,126,7
+2024-02-06,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,No,97,129,0
+2024-02-06,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,102,301,0
+2024-02-06,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,120,321,17
+2024-02-07,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,262,247,10
+2024-02-07,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,No,237,228,0
+2024-02-07,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,102,332,59
+2024-02-07,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,130,267,23
+2024-02-07,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,No,111,112,0
+2024-02-07,Banana,Fruit,No,No,No,No,No,No,No,No,No,119,176,0
+2024-02-07,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,157,237,8
+2024-02-07,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,Yes,141,347,57
+2024-02-08,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,219,221,34
+2024-02-08,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,249,154,3
+2024-02-08,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,100,347,24
+2024-02-08,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,112,338,31
+2024-02-08,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,No,83,199,42
+2024-02-08,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,134,154,15
+2024-02-08,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,Yes,No,Yes,162,243,45
+2024-02-08,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,138,261,0
+2024-02-09,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,296,161,5
+2024-02-09,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,252,241,22
+2024-02-09,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,147,275,0
+2024-02-09,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,109,247,26
+2024-02-09,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,No,107,136,3
+2024-02-09,Banana,Fruit,No,No,No,No,No,No,No,No,No,105,140,6
+2024-02-09,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,113,305,18
+2024-02-09,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,Yes,159,301,39
+2024-02-12,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,263,257,13
+2024-02-12,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,223,192,14
+2024-02-12,French Fries,Side,No,No,Yes,Yes,No,No,Yes,Yes,Yes,107,316,66
+2024-02-12,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,104,221,18
+2024-02-12,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,No,95,119,0
+2024-02-12,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,116,132,11
+2024-02-12,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,146,308,6
+2024-02-12,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,149,248,1
+2024-02-13,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,No,215,249,27
+2024-02-13,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,214,229,49
+2024-02-13,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,115,215,19
+2024-02-13,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,101,304,36
+2024-02-13,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,Yes,106,192,29
+2024-02-13,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,82,157,16
+2024-02-13,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,119,276,50
+2024-02-13,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,173,260,35
+2024-02-14,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,226,216,9
+2024-02-14,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,252,272,0
+2024-02-14,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,109,297,18
+2024-02-14,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,118,201,3
+2024-02-14,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,No,82,196,6
+2024-02-14,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,No,90,102,0
+2024-02-14,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,168,279,0
+2024-02-14,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,126,294,8
+2024-02-15,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,255,162,15
+2024-02-15,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,Yes,223,300,48
+2024-02-15,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,126,235,13
+2024-02-15,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,147,316,0
+2024-02-15,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,No,119,167,7
+2024-02-15,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,No,86,160,5
+2024-02-15,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,161,243,0
+2024-02-15,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,119,221,6
+2024-02-16,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,Yes,213,254,37
+2024-02-16,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,No,297,298,42
+2024-02-16,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,145,292,10
+2024-02-16,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,121,277,9
+2024-02-16,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,No,90,220,0
+2024-02-16,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,No,123,119,17
+2024-02-16,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,134,243,2
+2024-02-16,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,132,253,21
+2024-02-19,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,285,236,48
+2024-02-19,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,250,256,41
+2024-02-19,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,122,224,11
+2024-02-19,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,146,264,0
+2024-02-19,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,87,127,9
+2024-02-19,Banana,Fruit,No,No,No,No,No,No,No,No,No,111,105,13
+2024-02-19,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,137,279,16
+2024-02-19,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,160,204,0
+2024-02-20,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,261,252,0
+2024-02-20,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,247,287,55
+2024-02-20,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,128,320,0
+2024-02-20,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,128,333,0
+2024-02-20,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,No,103,204,0
+2024-02-20,Watermelon Cubes,Fruit,No,No,No,No,No,No,No,No,No,90,173,0
+2024-02-20,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,138,322,0
+2024-02-20,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,140,260,21
+2024-02-21,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,No,211,282,13
+2024-02-21,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,258,272,23
+2024-02-21,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,110,218,39
+2024-02-21,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,111,326,4
+2024-02-21,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,No,96,106,4
+2024-02-21,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,No,122,133,10
+2024-02-21,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,Yes,172,237,42
+2024-02-21,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,109,350,0
+2024-02-22,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,No,260,253,17
+2024-02-22,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,231,167,14
+2024-02-22,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,143,300,32
+2024-02-22,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,140,281,0
+2024-02-22,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,No,83,236,5
+2024-02-22,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,Yes,105,126,15
+2024-02-22,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,168,302,31
+2024-02-22,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,Yes,113,299,70
+2024-02-23,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,285,280,29
+2024-02-23,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,No,217,286,17
+2024-02-23,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,126,297,34
+2024-02-23,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,145,274,63
+2024-02-23,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,113,127,20
+2024-02-23,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,105,202,4
+2024-02-23,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,174,318,0
+2024-02-23,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,103,212,26
+2024-02-26,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,242,226,18
+2024-02-26,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,217,229,0
+2024-02-26,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,148,240,50
+2024-02-26,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,125,278,0
+2024-02-26,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,Yes,82,232,31
+2024-02-26,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,124,215,0
+2024-02-26,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,144,271,62
+2024-02-26,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,149,318,14
+2024-02-27,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,No,245,296,23
+2024-02-27,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,239,216,0
+2024-02-27,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,126,261,27
+2024-02-27,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,117,226,8
+2024-02-27,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,No,86,102,1
+2024-02-27,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,No,85,240,11
+2024-02-27,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,160,200,30
+2024-02-27,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,148,251,19
+2024-02-28,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,No,239,263,3
+2024-02-28,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,259,271,2
+2024-02-28,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,111,326,32
+2024-02-28,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,129,210,4
+2024-02-28,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,No,119,119,8
+2024-02-28,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,137,247,19
+2024-02-28,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,136,302,1
+2024-02-28,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,124,240,0
+2024-02-29,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,228,210,10
+2024-02-29,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,235,195,0
+2024-02-29,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,130,349,0
+2024-02-29,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,123,263,5
+2024-02-29,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,Yes,89,177,32
+2024-02-29,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,Yes,98,215,15
+2024-02-29,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,107,223,0
+2024-02-29,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,141,272,0
+2024-03-01,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,248,207,0
+2024-03-01,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,261,261,14
+2024-03-01,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,129,257,15
+2024-03-01,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,Yes,106,205,45
+2024-03-01,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,Yes,109,208,44
+2024-03-01,Watermelon Cubes,Fruit,No,No,No,No,No,No,No,No,Yes,123,150,28
+2024-03-01,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,137,248,0
+2024-03-01,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,Yes,156,323,75
+2024-03-04,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,286,228,0
+2024-03-04,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,267,235,28
+2024-03-04,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,103,347,31
+2024-03-04,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,148,250,44
+2024-03-04,Green Beans,Vegetable,No,No,Yes,No,No,No,No,No,Yes,110,248,24
+2024-03-04,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,No,132,110,4
+2024-03-04,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,118,333,0
+2024-03-04,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,166,275,11
+2024-03-05,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,No,240,270,0
+2024-03-05,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,No,246,249,18
+2024-03-05,Coleslaw,Side,No,No,Yes,No,No,No,Yes,No,No,105,299,63
+2024-03-05,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,119,215,26
+2024-03-05,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,Yes,97,178,39
+2024-03-05,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,92,210,25
+2024-03-05,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,126,310,0
+2024-03-05,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,Yes,171,320,71
+2024-03-06,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,267,178,0
+2024-03-06,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,201,242,9
+2024-03-06,Coleslaw,Side,No,No,Yes,No,No,No,No,No,Yes,120,316,51
+2024-03-06,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,123,250,0
+2024-03-06,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,107,188,0
+2024-03-06,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,132,204,5
+2024-03-06,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,137,271,0
+2024-03-06,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,111,230,27
+2024-03-07,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,295,210,18
+2024-03-07,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,Yes,235,217,37
+2024-03-07,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,147,241,14
+2024-03-07,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,120,348,61
+2024-03-07,Green Beans,Vegetable,No,No,Yes,No,No,No,No,No,Yes,96,235,29
+2024-03-07,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,No,88,153,0
+2024-03-07,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,Yes,No,No,134,209,31
+2024-03-07,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,166,252,30
+2024-03-08,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,242,158,0
+2024-03-08,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,287,253,60
+2024-03-08,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,149,302,13
+2024-03-08,Coleslaw,Side,No,No,Yes,No,No,No,No,No,Yes,134,272,30
+2024-03-08,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,92,116,2
+2024-03-08,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,No,149,237,0
+2024-03-08,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,112,323,17
+2024-03-08,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,115,262,5
+2024-03-11,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,214,181,6
+2024-03-11,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,258,288,26
+2024-03-11,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,105,305,0
+2024-03-11,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,144,338,16
+2024-03-11,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,92,198,4
+2024-03-11,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,108,102,0
+2024-03-11,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,142,279,0
+2024-03-11,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,155,229,11
+2024-03-12,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,Yes,248,276,35
+2024-03-12,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,246,246,14
+2024-03-12,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,126,319,22
+2024-03-12,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,132,302,20
+2024-03-12,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,Yes,115,250,46
+2024-03-12,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,No,94,241,0
+2024-03-12,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,105,202,18
+2024-03-12,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,100,301,0
+2024-03-13,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,250,193,0
+2024-03-13,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,225,188,5
+2024-03-13,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,104,280,0
+2024-03-13,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,Yes,129,296,17
+2024-03-13,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,No,106,228,0
+2024-03-13,Banana,Fruit,No,No,No,No,No,No,No,No,No,93,163,0
+2024-03-13,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,153,209,10
+2024-03-13,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,129,263,0
+2024-03-14,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,210,254,16
+2024-03-14,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,206,175,17
+2024-03-14,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,131,219,0
+2024-03-14,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,130,291,25
+2024-03-14,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,No,113,133,0
+2024-03-14,Banana,Fruit,No,No,No,No,No,No,No,No,Yes,121,126,21
+2024-03-14,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,109,249,0
+2024-03-14,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,Yes,160,288,50
+2024-03-15,Meatball Sub,Main dish,Yes,No,No,No,No,No,Yes,No,No,237,289,62
+2024-03-15,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,266,212,18
+2024-03-15,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,140,300,0
+2024-03-15,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,140,278,0
+2024-03-15,Green Beans,Vegetable,No,No,Yes,No,No,No,No,No,Yes,83,188,25
+2024-03-15,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,No,146,153,0
+2024-03-15,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,154,321,23
+2024-03-15,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,119,320,0
+2024-03-18,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,204,297,0
+2024-03-18,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,Yes,279,249,29
+2024-03-18,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,124,257,19
+2024-03-18,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,132,317,0
+2024-03-18,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,No,116,164,21
+2024-03-18,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,No,116,218,7
+2024-03-18,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,101,217,49
+2024-03-18,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,175,219,8
+2024-03-19,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,280,249,39
+2024-03-19,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,270,211,34
+2024-03-19,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,114,284,15
+2024-03-19,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,134,209,11
+2024-03-19,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,No,93,222,2
+2024-03-19,Banana,Fruit,No,No,No,No,No,No,No,No,No,130,230,6
+2024-03-19,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,106,243,9
+2024-03-19,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,176,276,33
+2024-03-20,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,268,193,19
+2024-03-20,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,297,238,0
+2024-03-20,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,125,230,5
+2024-03-20,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,113,337,24
+2024-03-20,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,No,90,120,0
+2024-03-20,Strawberry Halves,Fruit,No,No,No,No,No,No,Yes,No,No,117,204,19
+2024-03-20,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,146,237,43
+2024-03-20,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,142,293,3
+2024-03-21,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,Yes,232,180,22
+2024-03-21,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,300,201,36
+2024-03-21,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,147,240,13
+2024-03-21,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,123,321,0
+2024-03-21,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,No,81,155,6
+2024-03-21,Orange Wedges,Fruit,No,No,No,Yes,No,No,Yes,Yes,Yes,123,145,27
+2024-03-21,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,143,347,1
+2024-03-21,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,122,257,6
+2024-03-22,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,252,290,9
+2024-03-22,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,286,296,31
+2024-03-22,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,120,212,9
+2024-03-22,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,123,216,9
+2024-03-22,Green Beans,Vegetable,No,No,Yes,No,No,No,No,No,No,93,172,0
+2024-03-22,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,No,118,178,0
+2024-03-22,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,154,301,0
+2024-03-22,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,Yes,151,205,10
+2024-03-25,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,262,224,39
+2024-03-25,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,248,247,38
+2024-03-25,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,114,204,34
+2024-03-25,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,128,328,37
+2024-03-25,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,Yes,No,No,101,203,33
+2024-03-25,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,123,113,0
+2024-03-25,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,177,284,20
+2024-03-25,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,101,314,47
+2024-03-26,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,294,175,33
+2024-03-26,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,233,262,48
+2024-03-26,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,106,277,0
+2024-03-26,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,142,334,20
+2024-03-26,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,No,96,164,4
+2024-03-26,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,Yes,107,147,19
+2024-03-26,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,118,217,8
+2024-03-26,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,157,221,13
+2024-03-27,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,No,207,284,13
+2024-03-27,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,Yes,283,198,21
+2024-03-27,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,120,347,22
+2024-03-27,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,128,260,6
+2024-03-27,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,80,104,5
+2024-03-27,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,Yes,146,250,31
+2024-03-27,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,154,316,4
+2024-03-27,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,163,326,0
+2024-03-28,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,241,280,8
+2024-03-28,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,299,212,3
+2024-03-28,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,131,249,3
+2024-03-28,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,125,243,27
+2024-03-28,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,92,249,30
+2024-03-28,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,No,106,100,6
+2024-03-28,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,130,249,33
+2024-03-28,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,Yes,104,207,45
+2024-03-29,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,250,170,3
+2024-03-29,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,245,190,8
+2024-03-29,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,104,209,0
+2024-03-29,Baked Beans,Side,No,No,Yes,No,No,No,No,No,Yes,148,302,25
+2024-03-29,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,No,85,197,0
+2024-03-29,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,Yes,148,150,26
+2024-03-29,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,105,273,0
+2024-03-29,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,127,233,2
+2024-04-01,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,Yes,220,277,34
+2024-04-01,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,278,285,35
+2024-04-01,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,145,300,0
+2024-04-01,Coleslaw,Side,No,No,Yes,No,No,No,No,No,Yes,127,271,30
+2024-04-01,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,No,97,195,34
+2024-04-01,Strawberry Halves,Fruit,No,No,No,No,No,No,Yes,No,Yes,132,128,32
+2024-04-01,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,122,253,50
+2024-04-01,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,124,218,39
+2024-04-02,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,291,162,43
+2024-04-02,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,277,185,11
+2024-04-02,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,128,232,0
+2024-04-02,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,120,288,11
+2024-04-02,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,Yes,110,172,26
+2024-04-02,Watermelon Cubes,Fruit,No,No,No,No,No,No,No,No,Yes,149,122,10
+2024-04-02,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,142,347,26
+2024-04-02,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,144,270,28
+2024-04-03,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,211,197,0
+2024-04-03,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,Yes,290,280,46
+2024-04-03,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,135,349,24
+2024-04-03,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,114,208,36
+2024-04-03,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,Yes,87,183,42
+2024-04-03,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,136,225,17
+2024-04-03,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,177,299,3
+2024-04-03,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,113,294,62
+2024-04-04,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,No,228,243,15
+2024-04-04,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,227,245,35
+2024-04-04,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,135,205,0
+2024-04-04,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,105,288,0
+2024-04-04,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,113,157,23
+2024-04-04,Banana,Fruit,No,No,No,No,No,No,No,No,No,91,172,0
+2024-04-04,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,173,247,0
+2024-04-04,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,Yes,131,320,73
+2024-04-05,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,262,207,0
+2024-04-05,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,270,186,33
+2024-04-05,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,121,270,4
+2024-04-05,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,129,239,19
+2024-04-05,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,No,100,131,6
+2024-04-05,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,No,116,176,0
+2024-04-05,Banana Bread,Dessert,No,No,No,No,No,Yes,Yes,Yes,No,120,204,17
+2024-04-05,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,150,332,10
+2024-04-08,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,No,222,253,0
+2024-04-08,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,271,289,21
+2024-04-08,Mac and Cheese,Side,No,Yes,Yes,No,No,No,Yes,No,No,100,293,60
+2024-04-08,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,134,213,17
+2024-04-08,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,No,97,117,8
+2024-04-08,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,Yes,138,139,14
+2024-04-08,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,140,299,8
+2024-04-08,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,138,201,3
+2024-04-09,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,250,258,18
+2024-04-09,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,Yes,298,286,47
+2024-04-09,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,103,215,10
+2024-04-09,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,134,278,5
+2024-04-09,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,No,118,114,3
+2024-04-09,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,Yes,139,113,17
+2024-04-09,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,133,229,22
+2024-04-09,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,111,297,0
+2024-04-10,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,259,153,0
+2024-04-10,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,No,299,242,24
+2024-04-10,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,110,236,23
+2024-04-10,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,114,270,6
+2024-04-10,Green Beans,Vegetable,No,No,Yes,No,No,No,No,No,No,103,179,0
+2024-04-10,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,103,230,0
+2024-04-10,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,140,211,25
+2024-04-10,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,113,221,29
+2024-04-11,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,Yes,291,217,43
+2024-04-11,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,252,186,43
+2024-04-11,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,Yes,105,274,22
+2024-04-11,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,147,297,34
+2024-04-11,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,Yes,84,194,30
+2024-04-11,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,131,211,17
+2024-04-11,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,125,307,26
+2024-04-11,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,126,240,0
+2024-04-12,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,236,246,0
+2024-04-12,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,No,243,284,18
+2024-04-12,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,130,327,0
+2024-04-12,Coleslaw,Side,No,No,Yes,No,No,No,No,No,Yes,136,325,45
+2024-04-12,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,115,179,27
+2024-04-12,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,Yes,88,240,58
+2024-04-12,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,164,344,0
+2024-04-12,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,167,299,49
+2024-04-15,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,292,182,31
+2024-04-15,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,234,287,27
+2024-04-15,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,145,243,17
+2024-04-15,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,Yes,114,204,32
+2024-04-15,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,Yes,No,No,118,218,36
+2024-04-15,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,No,119,167,2
+2024-04-15,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,119,236,19
+2024-04-15,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,117,322,5
+2024-04-16,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,274,251,3
+2024-04-16,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,No,209,284,30
+2024-04-16,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,103,211,27
+2024-04-16,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,132,298,21
+2024-04-16,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,Yes,90,188,41
+2024-04-16,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,Yes,142,188,29
+2024-04-16,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,124,201,5
+2024-04-16,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,154,279,6
+2024-04-17,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,211,209,64
+2024-04-17,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,235,208,16
+2024-04-17,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,127,347,58
+2024-04-17,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,131,213,3
+2024-04-17,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,No,116,179,0
+2024-04-17,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,145,132,0
+2024-04-17,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,129,342,48
+2024-04-17,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,Yes,110,333,90
+2024-04-18,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,202,201,33
+2024-04-18,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,226,202,4
+2024-04-18,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,122,289,0
+2024-04-18,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,116,272,0
+2024-04-18,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,No,110,201,0
+2024-04-18,Fruit Cup,Fruit,No,No,No,No,No,Yes,Yes,Yes,No,120,166,10
+2024-04-18,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,Yes,152,203,17
+2024-04-18,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,166,244,9
+2024-04-19,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,Yes,253,217,28
+2024-04-19,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,Yes,293,277,42
+2024-04-19,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,145,279,0
+2024-04-19,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,106,327,48
+2024-04-19,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,No,81,175,22
+2024-04-19,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,No,116,184,1
+2024-04-19,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,142,332,34
+2024-04-19,Banana Bread,Dessert,No,No,No,No,No,Yes,Yes,Yes,Yes,131,340,44
+2024-04-22,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,271,274,38
+2024-04-22,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,234,215,35
+2024-04-22,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,147,251,6
+2024-04-22,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,147,330,48
+2024-04-22,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,No,104,113,7
+2024-04-22,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,112,115,12
+2024-04-22,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,107,350,20
+2024-04-22,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,155,350,0
+2024-04-23,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,No,203,168,37
+2024-04-23,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,No,259,275,6
+2024-04-23,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,124,268,39
+2024-04-23,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,115,314,23
+2024-04-23,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,No,95,116,9
+2024-04-23,Apple Slices,Fruit,No,No,No,No,No,No,No,Yes,No,100,133,2
+2024-04-23,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,157,266,51
+2024-04-23,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,160,291,11
+2024-04-24,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,226,166,4
+2024-04-24,Chili Con Carne,Main dish,Yes,No,No,No,Yes,No,Yes,No,Yes,225,300,60
+2024-04-24,Coleslaw,Side,No,No,Yes,No,No,No,No,No,Yes,101,340,55
+2024-04-24,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,128,302,14
+2024-04-24,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,No,110,146,4
+2024-04-24,Fruit Cup,Fruit,No,No,No,No,No,Yes,Yes,Yes,No,134,162,22
+2024-04-24,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,111,337,8
+2024-04-24,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,143,320,3
+2024-04-25,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,229,177,43
+2024-04-25,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,281,158,40
+2024-04-25,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,138,348,0
+2024-04-25,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,118,347,30
+2024-04-25,Carrot Sticks,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,100,126,13
+2024-04-25,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,Yes,104,185,27
+2024-04-25,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,146,229,1
+2024-04-25,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,165,326,36
+2024-04-26,Teriyaki Chicken Bowl,Main dish,Yes,No,No,No,Yes,No,No,No,No,279,266,33
+2024-04-26,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,250,204,19
+2024-04-26,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,126,350,86
+2024-04-26,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,138,233,26
+2024-04-26,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,94,219,24
+2024-04-26,Grapes,Fruit,No,No,No,No,No,No,No,Yes,Yes,148,114,6
+2024-04-26,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,147,242,36
+2024-04-26,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,104,318,8
+2024-04-29,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,220,198,33
+2024-04-29,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,283,185,1
+2024-04-29,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,132,273,14
+2024-04-29,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,Yes,116,206,39
+2024-04-29,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,109,240,33
+2024-04-29,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,146,238,3
+2024-04-29,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,120,283,8
+2024-04-29,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,122,237,0
+2024-04-30,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,212,192,0
+2024-04-30,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,296,277,45
+2024-04-30,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,150,238,0
+2024-04-30,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,130,212,20
+2024-04-30,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,No,107,109,12
+2024-04-30,Banana,Fruit,No,No,No,No,No,No,No,No,No,122,225,35
+2024-04-30,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,Yes,111,326,24
+2024-04-30,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,Yes,106,210,41
+2024-05-01,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,240,152,24
+2024-05-01,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,215,221,33
+2024-05-01,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,109,233,0
+2024-05-01,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,Yes,145,319,37
+2024-05-01,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,Yes,117,227,11
+2024-05-01,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,Yes,96,100,12
+2024-05-01,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,175,328,15
+2024-05-01,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,Yes,158,294,32
+2024-05-02,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,272,295,43
+2024-05-02,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,202,218,23
+2024-05-02,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,111,330,34
+2024-05-02,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,133,319,0
+2024-05-02,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,No,81,117,4
+2024-05-02,Banana,Fruit,No,No,No,No,No,No,No,No,Yes,85,174,22
+2024-05-02,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,169,255,0
+2024-05-02,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,119,338,0
+2024-05-03,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,240,284,10
+2024-05-03,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,292,262,0
+2024-05-03,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,129,249,0
+2024-05-03,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,116,279,17
+2024-05-03,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,114,141,21
+2024-05-03,Grapes,Fruit,No,No,No,No,No,No,No,Yes,Yes,109,100,4
+2024-05-03,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,129,275,0
+2024-05-03,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,150,222,26
+2024-05-06,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,Yes,265,251,36
+2024-05-06,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,271,207,15
+2024-05-06,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,105,232,12
+2024-05-06,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,132,266,17
+2024-05-06,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,Yes,99,214,0
+2024-05-06,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,111,173,11
+2024-05-06,Cupcake,Dessert,No,No,No,No,No,Yes,Yes,Yes,Yes,140,313,77
+2024-05-06,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,Yes,173,309,30
+2024-05-07,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,Yes,223,247,57
+2024-05-07,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,245,288,2
+2024-05-07,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,111,283,14
+2024-05-07,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,122,208,6
+2024-05-07,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,83,155,25
+2024-05-07,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,No,100,215,0
+2024-05-07,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,160,218,19
+2024-05-07,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,174,236,32
+2024-05-08,Chicken Nuggets,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,217,210,15
+2024-05-08,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,227,267,47
+2024-05-08,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,148,314,13
+2024-05-08,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,103,219,0
+2024-05-08,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,Yes,108,236,18
+2024-05-08,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,130,219,0
+2024-05-08,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,180,333,0
+2024-05-08,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,138,304,16
+2024-05-09,Spaghetti Bolognese,Main dish,Yes,No,No,No,Yes,No,No,No,No,221,235,16
+2024-05-09,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,209,292,53
+2024-05-09,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,126,255,9
+2024-05-09,Coleslaw,Side,No,No,Yes,No,No,No,No,No,Yes,146,337,34
+2024-05-09,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,No,89,122,7
+2024-05-09,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,90,178,12
+2024-05-09,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,100,331,7
+2024-05-09,Fruit Tart,Dessert,No,No,No,No,No,Yes,Yes,No,No,104,291,18
+2024-05-10,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,244,204,49
+2024-05-10,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,258,162,7
+2024-05-10,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,137,337,16
+2024-05-10,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,103,221,17
+2024-05-10,Green Beans,Vegetable,No,No,Yes,No,No,No,No,No,No,116,111,3
+2024-05-10,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,Yes,109,153,16
+2024-05-10,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,167,219,48
+2024-05-10,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,Yes,162,289,37
+2024-05-13,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,246,171,38
+2024-05-13,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,206,160,39
+2024-05-13,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,Yes,113,268,31
+2024-05-13,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,135,307,19
+2024-05-13,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,105,154,3
+2024-05-13,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,Yes,116,177,12
+2024-05-13,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,138,210,12
+2024-05-13,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,122,294,46
+2024-05-14,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,No,283,241,16
+2024-05-14,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,250,270,20
+2024-05-14,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,102,251,44
+2024-05-14,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,Yes,135,312,58
+2024-05-14,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,No,98,178,7
+2024-05-14,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,No,95,245,32
+2024-05-14,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,172,205,22
+2024-05-14,Fruit Tart,Dessert,No,No,No,No,No,Yes,No,No,No,149,275,0
+2024-05-15,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,Yes,237,193,38
+2024-05-15,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,Yes,281,228,36
+2024-05-15,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,147,265,9
+2024-05-15,Baked Beans,Side,No,No,Yes,No,No,No,No,No,Yes,110,282,44
+2024-05-15,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,No,92,123,0
+2024-05-15,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,145,220,0
+2024-05-15,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,138,258,18
+2024-05-15,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,171,260,8
+2024-05-16,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,200,289,4
+2024-05-16,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,Yes,279,220,68
+2024-05-16,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,No,131,227,2
+2024-05-16,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,135,328,33
+2024-05-16,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,91,200,0
+2024-05-16,Watermelon Cubes,Fruit,No,No,No,No,No,No,No,No,No,86,104,5
+2024-05-16,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,130,256,39
+2024-05-16,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,110,332,33
+2024-05-17,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,Yes,219,254,49
+2024-05-17,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,288,220,15
+2024-05-17,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,110,282,0
+2024-05-17,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,133,284,18
+2024-05-17,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,97,242,33
+2024-05-17,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,127,172,0
+2024-05-17,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,112,202,17
+2024-05-17,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,172,220,6
+2024-05-20,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,298,170,0
+2024-05-20,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,201,220,16
+2024-05-20,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,129,316,15
+2024-05-20,Baked Beans,Side,No,No,Yes,No,No,No,No,No,No,134,245,32
+2024-05-20,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,92,121,26
+2024-05-20,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,No,120,204,0
+2024-05-20,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,172,227,13
+2024-05-20,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,144,339,25
+2024-05-21,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,282,207,19
+2024-05-21,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,281,280,2
+2024-05-21,Cornbread,Side,No,No,Yes,No,No,No,No,Yes,Yes,100,341,43
+2024-05-21,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,131,330,0
+2024-05-21,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,87,197,32
+2024-05-21,Grapes,Fruit,No,No,No,No,No,No,No,Yes,Yes,139,244,51
+2024-05-21,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,No,104,274,0
+2024-05-21,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,159,259,7
+2024-05-22,BBQ Pulled Pork Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,239,292,5
+2024-05-22,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,Yes,221,240,32
+2024-05-22,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,150,267,16
+2024-05-22,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,107,231,2
+2024-05-22,Cauliflower Bites,Vegetable,No,No,Yes,No,No,No,No,No,No,109,179,14
+2024-05-22,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,135,222,0
+2024-05-22,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,130,306,0
+2024-05-22,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,107,245,12
+2024-05-23,Chicken Alfredo,Main dish,Yes,No,No,No,Yes,No,No,No,Yes,256,266,47
+2024-05-23,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,No,222,252,9
+2024-05-23,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,Yes,149,233,33
+2024-05-23,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,125,301,0
+2024-05-23,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,Yes,108,239,47
+2024-05-23,Pear Slices,Fruit,No,No,No,No,No,No,No,Yes,No,125,169,0
+2024-05-23,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,150,340,0
+2024-05-23,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,103,334,36
+2024-05-24,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,224,288,34
+2024-05-24,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,228,194,28
+2024-05-24,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,115,264,36
+2024-05-24,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,150,207,5
+2024-05-24,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,Yes,No,No,117,153,7
+2024-05-24,Fruit Cup,Fruit,No,No,No,No,No,Yes,No,Yes,Yes,88,122,17
+2024-05-24,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,Yes,157,227,46
+2024-05-24,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,143,295,35
+2024-05-27,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,300,168,17
+2024-05-27,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,297,250,11
+2024-05-27,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,No,129,224,0
+2024-05-27,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,Yes,140,275,56
+2024-05-27,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,No,104,155,7
+2024-05-27,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,Yes,136,127,13
+2024-05-27,Apple Pie,Dessert,No,No,No,No,No,Yes,No,No,No,154,247,8
+2024-05-27,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,Yes,174,250,35
+2024-05-28,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,No,202,262,0
+2024-05-28,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,284,161,26
+2024-05-28,French Fries,Side,No,No,Yes,Yes,No,No,No,Yes,No,113,322,0
+2024-05-28,Baked Beans,Side,No,No,Yes,No,No,No,No,No,Yes,111,223,13
+2024-05-28,Spinach Salad,Vegetable,No,No,Yes,No,No,No,No,No,Yes,96,180,22
+2024-05-28,Watermelon Cubes,Fruit,No,No,No,No,No,No,No,No,Yes,93,211,7
+2024-05-28,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,178,208,13
+2024-05-28,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,No,155,349,38
+2024-05-29,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,201,293,43
+2024-05-29,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,Yes,298,250,27
+2024-05-29,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,144,264,39
+2024-05-29,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,112,298,6
+2024-05-29,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,No,90,147,17
+2024-05-29,Banana,Fruit,No,No,No,No,No,No,No,No,Yes,90,136,18
+2024-05-29,Rice Krispie Treat,Dessert,No,No,No,No,No,Yes,No,No,Yes,125,339,72
+2024-05-29,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,Yes,148,347,34
+2024-05-30,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,Yes,239,290,56
+2024-05-30,Grilled Cheese Sandwich,Main dish,No,Yes,No,No,No,No,No,No,No,290,195,0
+2024-05-30,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,Yes,132,214,12
+2024-05-30,Coleslaw,Side,No,No,Yes,No,No,No,No,No,No,136,283,14
+2024-05-30,Steamed Broccoli,Vegetable,No,No,Yes,No,No,No,No,No,Yes,81,172,12
+2024-05-30,Pineapple Chunks,Fruit,No,No,No,No,No,No,No,No,No,149,170,2
+2024-05-30,Cookies,Dessert,No,No,No,No,No,Yes,No,Yes,No,127,343,11
+2024-05-30,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,155,230,31
+2024-05-31,Meatball Sub,Main dish,Yes,No,No,No,No,No,No,No,No,271,158,12
+2024-05-31,Veggie Burger,Main dish,Yes,No,No,No,No,No,No,No,No,287,160,7
+2024-05-31,Potato Wedges,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,133,220,18
+2024-05-31,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,129,282,51
+2024-05-31,Mixed Salad,Vegetable,No,No,Yes,No,No,No,No,No,No,109,182,0
+2024-05-31,Orange Wedges,Fruit,No,No,No,Yes,No,No,No,Yes,No,95,122,13
+2024-05-31,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,137,254,20
+2024-05-31,Chocolate Pudding,Dessert,No,Yes,No,No,No,Yes,No,No,Yes,140,281,28
+2024-06-03,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,No,239,164,0
+2024-06-03,Fish Fillet Sandwich,Main dish,Yes,No,No,Yes,No,No,No,Yes,No,201,155,8
+2024-06-03,Rice Pilaf,Side,No,No,Yes,No,No,No,No,No,No,149,236,9
+2024-06-03,Garlic Bread,Side,No,No,Yes,No,No,No,No,Yes,No,107,345,0
+2024-06-03,Peas and Carrots,Vegetable,No,No,Yes,No,No,No,No,No,No,92,222,10
+2024-06-03,Mixed Berries,Fruit,No,No,No,No,No,No,No,No,No,141,197,5
+2024-06-03,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,109,326,0
+2024-06-03,Brownie,Dessert,No,No,No,No,No,Yes,No,No,Yes,125,242,41
+2024-06-04,Stuffed Bell Peppers,Main dish,No,No,No,No,No,No,No,No,Yes,274,167,22
+2024-06-04,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,Yes,249,182,25
+2024-06-04,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,135,218,49
+2024-06-04,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,145,300,31
+2024-06-04,Zucchini Sauté,Vegetable,No,No,Yes,No,No,No,No,No,Yes,104,244,39
+2024-06-04,Strawberry Halves,Fruit,No,No,No,No,No,No,No,No,No,99,123,15
+2024-06-04,Cupcake,Dessert,No,No,No,No,No,Yes,No,Yes,No,110,272,0
+2024-06-04,Brownie,Dessert,No,No,No,No,No,Yes,No,No,No,158,214,12
+2024-06-05,Fried Chicken,Main dish,Yes,No,No,Yes,No,No,No,No,No,211,160,0
+2024-06-05,Turkey Sandwich,Main dish,Yes,No,No,No,No,No,No,No,Yes,287,179,20
+2024-06-05,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,Yes,109,295,35
+2024-06-05,Mac and Cheese,Side,No,Yes,Yes,No,No,No,No,No,No,125,294,22
+2024-06-05,Roasted Veggies,Vegetable,No,No,Yes,No,No,No,No,No,No,95,148,3
+2024-06-05,Grapes,Fruit,No,No,No,No,No,No,No,Yes,No,119,237,0
+2024-06-05,Vanilla Yogurt,Dessert,No,Yes,No,No,No,Yes,No,No,No,113,319,1
+2024-06-05,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,Yes,131,210,15
+2024-06-06,Beef Tacos,Main dish,Yes,No,No,No,No,No,Yes,No,No,257,300,39
+2024-06-06,Cheeseburger,Main dish,Yes,Yes,No,No,No,No,No,No,Yes,289,245,34
+2024-06-06,Mashed Potatoes,Side,No,No,Yes,No,No,No,No,No,No,109,206,11
+2024-06-06,Sweet Potato Fries,Side,No,No,Yes,Yes,No,No,No,Yes,Yes,104,312,28
+2024-06-06,Cucumber Slices,Vegetable,No,No,Yes,No,No,No,No,Yes,No,106,197,8
+2024-06-06,Watermelon Cubes,Fruit,No,No,No,No,No,No,No,No,Yes,96,248,30
+2024-06-06,Banana Bread,Dessert,No,No,No,No,No,Yes,No,Yes,No,135,282,6
+2024-06-06,Ice Cream Cup,Dessert,No,Yes,No,No,No,Yes,No,Yes,No,117,326,19
+2025-03-30,apple,Fruit,No,No,No,No,No,Yes,No,Yes,No,182,2,0
+2025-03-30,apple,Fruit,No,No,No,No,No,Yes,No,Yes,No,182,2,0

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trash2Taste - Menu Generator</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" type="image/png" href="favicon.png" />
+</head>
+<body>
+  <header class="site-header">
+    <nav class="navbar container">
+      <a href="menu.html" class="logo">Trash2Taste</a>
+      <button class="menu-toggle" aria-label="Toggle navigation">&#9776;</button>
+      <ul class="nav-links">
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="menu.html" class="active">Menu Generator</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section id="hero" class="hero menu-hero">
+    <div class="hero-content container reveal">
+      <h1>Smart Menu Planning</h1>
+      <p class="tagline">
+        Optimize your servings and reduce waste with our advanced AI system.
+      </p>
+    </div>
+  </section>
+  <section id="menu-gen" class="section demo">
+    <div class="container reveal">
+      <h2>Weekly Menu Generator</h2>
+      <p>
+        Enter the number of servings for each weekday (Mon–Fri). Our AI engine will craft a tailored weekly menu and provide detailed waste estimates.
+      </p>
+      <div class="dashboard-container">
+        <form id="servingsForm">
+          <div class="input-group">
+            <label for="mondayServings">Monday:</label>
+            <input type="number" id="mondayServings" name="mondayServings" min="0" required />
+          </div>
+          <div class="input-group">
+            <label for="tuesdayServings">Tuesday:</label>
+            <input type="number" id="tuesdayServings" name="tuesdayServings" min="0" required />
+          </div>
+          <div class="input-group">
+            <label for="wednesdayServings">Wednesday:</label>
+            <input type="number" id="wednesdayServings" name="wednesdayServings" min="0" required />
+          </div>
+          <div class="input-group">
+            <label for="thursdayServings">Thursday:</label>
+            <input type="number" id="thursdayServings" name="thursdayServings" min="0" required />
+          </div>
+          <div class="input-group">
+            <label for="fridayServings">Friday:</label>
+            <input type="number" id="fridayServings" name="fridayServings" min="0" required />
+          </div>
+          <button type="button" id="generateMenuBtn" class="btn primary-btn">Generate Menus</button>
+        </form>
+        <div id="menuOutput" class="model-output"></div>
+        <div id="wastePrediction" class="model-output"></div>
+      </div>
+      <div class="dashboard-container">
+        <h3>Waste Breakdown</h3>
+        <p class="chart-explanation">
+          Detailed distribution of food waste by category.
+        </p>
+        <canvas id="wasteChart" width="400" height="300" style="margin: 0 auto; display: block;"></canvas>
+      </div>
+    </div>
+  </section>
+  <section id="how-it-works" class="section extra-info">
+    <div class="container reveal">
+      <h2>How It Works</h2>
+      <p>
+        Our system leverages advanced machine learning and YOLO image classification to measure the quantity of food wasted across various categories. This data refines our menu suggestions and continuously improves operational efficiency.
+      </p>
+      <ul class="info-list">
+        <li><strong>Forecast</strong> daily demand accurately</li>
+        <li><strong>Minimize</strong> overproduction and waste</li>
+        <li><strong>Refine</strong> menus using real–time data</li>
+      </ul>
+      <p>
+        By learning from actual usage, Trash2Taste ensures a streamlined and cost–efficient dining experience.
+      </p>
+    </div>
+  </section>
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2025 Trash2Taste. All Rights Reserved.</p>
+      <ul class="social-links">
+        <li><a href="#" aria-label="Instagram"><span class="material-icons">photo_camera</span></a></li>
+        <li><a href="#" aria-label="Discord"><span class="material-icons">forum</span></a></li>
+        <li><a href="#" aria-label="Facebook"><span class="material-icons">thumb_up</span></a></li>
+        <li><a href="#" aria-label="LinkedIn"><span class="material-icons">business</span></a></li>
+        <li><a href="#" aria-label="Twitter"><span class="material-icons">chat</span></a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <!-- Inline script to choose and display a random menu with a 5-second loading delay -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const menus = [
+        {
+          name: "Optimized Weekly Menu",
+          items: {
+            "1. Greek Salad Wrap": [],
+            "2. BBQ Chicken and Quinoa": [],
+            "3. Veggie Stir-Fry": [],
+            "4. Protein-packed Rice Bowl": [],
+            "5. Beef Taco Salad": []
+          }
+        },
+        {
+          name: "Optimized Weekly Menu",
+          items: {
+            "1. Baked Ziti with Veggies": [],
+            "2. Meatball Sub": [],
+            "3. Bean and Cheese Burritos": [],
+            "4. Cheesy Quinoa and Broccoli": [],
+            "5. Grilled Chicken Salad": []
+          }
+        }
+      ];
+
+      document.getElementById('generateMenuBtn').addEventListener('click', function() {
+        const menuOutput = document.getElementById('menuOutput');
+        // Display loading message
+        menuOutput.innerHTML = '<p>Loading...</p>';
+
+        // Wait 5 seconds before displaying the random menu
+        setTimeout(function() {
+          const randomIndex = Math.floor(Math.random() * menus.length);
+          const chosenMenu = menus[randomIndex];
+
+          let outputHtml = `<h3>${chosenMenu.name}</h3><ul>`;
+          for (const dish in chosenMenu.items) {
+            outputHtml += `<li>${dish}</li>`;
+          }
+          outputHtml += `</ul>`;
+
+          menuOutput.innerHTML = outputHtml;
+        }, 5000);
+      });
+    });
+  </script>
+  <script src="script.js"></script>
+</body>
+</html>

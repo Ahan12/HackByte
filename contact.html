@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trash2Taste - Contact Us</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" type="image/png" href="favicon.png" />
+</head>
+<body>
+  <header class="site-header">
+    <nav class="navbar container">
+      <a href="about.html" class="logo">Trash2Taste</a>
+      <button class="menu-toggle" aria-label="Toggle navigation">&#9776;</button>
+      <ul class="nav-links">
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="menu.html">Menu Generator</a></li>
+        <li><a href="contact.html" class="active">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section id="hero" class="hero contact-hero">
+    <div class="hero-content container reveal">
+      <h1>Contact Us</h1>
+      <p class="tagline">We’d love to hear from you. Get in touch!</p>
+    </div>
+  </section>
+  <section id="contact" class="section contact">
+    <div class="container reveal">
+      <h2>Get In Touch</h2>
+      <p>Please fill out the form below and we’ll get back to you shortly.</p>
+      <form id="contactForm" class="contact-form">
+        <div class="form-group">
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required />
+        </div>
+        <div class="form-group">
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required />
+        </div>
+        <div class="form-group">
+          <label for="message">Message:</label>
+          <textarea id="message" name="message" rows="4" required></textarea>
+        </div>
+        <button type="submit" class="btn primary-btn">Send Message</button>
+        <p id="contactStatus" class="contact-status"></p>
+      </form>
+    </div>
+  </section>
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2025 Trash2Taste. All Rights Reserved.</p>
+      <ul class="social-links">
+        <li><a href="#" aria-label="Instagram"><span class="material-icons">photo_camera</span></a></li>
+        <li><a href="#" aria-label="Discord"><span class="material-icons">forum</span></a></li>
+        <li><a href="#" aria-label="Facebook"><span class="material-icons">thumb_up</span></a></li>
+        <li><a href="#" aria-label="LinkedIn"><span class="material-icons">business</span></a></li>
+        <li><a href="#" aria-label="Twitter"><span class="material-icons">chat</span></a></li>
+      </ul>
+    </div>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
